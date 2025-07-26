@@ -17,17 +17,6 @@ _Revolutionizing Milk with Speed, Style, and Impact_
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
-
----
-
 ## Overview
 
 Splyt-Milk is a developer-focused toolkit that simplifies building modern, high-performance web applications with React, Tailwind CSS, and Vite. It provides a robust foundation for rapid development, seamless animations, and engaging UI components.
@@ -48,4 +37,3 @@ This project aims to accelerate your front-end development process while ensurin
 
 ---
 
-## Getting Started
