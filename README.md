@@ -1,10 +1,4 @@
-# 🚀 YOUR-PROJECT-NAME
-
-_Revolutionizing [your domain] with Speed, Style, and Impact_
-
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
-![Code Language](https://img.shields.io/github/languages/top/your-username/your-repo-name)
-![License](https://img.shields.io/github/license/your-username/your-repo-name)
+# 🚀 Spylt Milk
 
 > Built with the tools and technologies:
 
