@@ -1,45 +1,51 @@
-# 🚀 Spylt Milk
+# SPYLT-MILK
+
+_Revolutionizing Milk with Speed, Style, and Impact_
+
+![last commit](https://img.shields.io/github/last-commit/your-username/splyt-milk)
+![javascript](https://img.shields.io/badge/javascript-78.6%25-yellow)
+![languages](https://img.shields.io/github/languages/count/your-username/splyt-milk)
 
 > Built with the tools and technologies:
 
-![Tech Stack](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat-square)
+![JSON](https://img.shields.io/badge/-JSON-black?logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![React](https://img.shields.io/badge/-React-black?logo=react)
+![Vite](https://img.shields.io/badge/-Vite-black?logo=vite)
+![ESLint](https://img.shields.io/badge/-ESLint-black?logo=eslint)
 
 ---
 
-## 🧩 Overview
+## Table of Contents
 
-**Your-Project-Name** is a modern toolkit for developers building high-performance front-end applications. Built with **React**, **Tailwind CSS**, and **Vite**, it enables lightning-fast development, delightful UI animations, and clean structure.
-
-### ✨ Why Use This Project?
-
-This toolkit helps developers build sleek, efficient, and maintainable UI experiences. Core features include:
-
-- 🔧 **Build Optimization**: Combines Vite with Tailwind CSS for rapid development and fast production builds.
-- 🎞️ **Animated UI Components**: Offers GSAP-powered scroll animations, sliders, and dynamic content displays.
-- ⚙️ **Streamlined Configuration**: Pre-configured ESLint, Vite, and modular script handling.
-- 🧠 **Modular Architecture**: Uses well-structured components and centralized constants.
-- 🚀 **Developer-Focused**: Supports HMR, linting, formatting, and scalability out of the box.
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
 
 ---
 
-## 🚀 Getting Started
+## Overview
 
-### ✅ Prerequisites
+Splyt-Milk is a developer-focused toolkit that simplifies building modern, high-performance web applications with React, Tailwind CSS, and Vite. It provides a robust foundation for rapid development, seamless animations, and engaging UI components.
 
-Make sure you have the following installed:
+### Why Splyt-Milk?
 
-- [Node.js](https://nodejs.org/) (v16+)
-- npm or [Yarn](https://yarnpkg.com/)
+This project aims to accelerate your front-end development process while ensuring a polished, interactive user experience. The core features include:
 
-### 🔧 Installation
+- ⚙️ **Build Optimization**: Integrates Vite with React and Tailwind CSS for blazing-fast development and production builds.
 
-Clone the repository and install dependencies:
+- 🌀 **Animated UI Components**: Includes scroll-triggered animations, sliders, and stylized titles powered by GSAP.
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
+- 📦 **Streamlined Configuration**: Comes with pre-configured ESLint, HTML, and package scripts for consistent setup.
+
+- 🍶 **Modular Content**: Uses constants for dynamic flavor, nutrition, and profile data, simplifying updates.
+
+- 👨‍💻 **Developer-Centric**: Supports hot module replacement, code quality enforcement, and easy customization.
+
+---
+
+## Getting Started
