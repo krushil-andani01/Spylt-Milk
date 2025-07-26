@@ -10,17 +10,6 @@
 
 ---
 
-## 📚 Table of Contents
-
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
-
----
-
 ## 🧩 Overview
 
 **Your-Project-Name** is a modern toolkit for developers building high-performance front-end applications. Built with **React**, **Tailwind CSS**, and **Vite**, it enables lightning-fast development, delightful UI animations, and clean structure.
