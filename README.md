@@ -13,7 +13,6 @@ _Revolutionizing Milk with Speed, Style, and Impact_
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-black?logo=vite)
-![ESLint](https://img.shields.io/badge/-ESLint-black?logo=eslint)
 
 ---
 
